@@ -83,4 +83,5 @@ createNewBlock("third block");
 createNewBlock("fourth block");
 
 console.log(blockchain);
+
 export {};
